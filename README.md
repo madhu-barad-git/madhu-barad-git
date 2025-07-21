@@ -16,8 +16,6 @@ I'm a passionate Software Developer with **5+ years of experience** in building 
 
 ---
 
----
-
 ### 📫 Let's Connect:
 [LinkedIn](https://www.linkedin.com/in/madhu-barad-31643a190?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub](https://github.com/madhu-barad-git)
 
