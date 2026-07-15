@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Madhu
 
-I'm a passionate Software Developer with **5+ years of experience** in building web applications using **.NET MVC, C#, and SQL Server**.  
+I'm a passionate Software Developer with **8+ years of experience** in building web applications using **.NET MVC,.NET Core, C#, and SQL Server**.  
 
 🔭 **Currently exploring:**  
 - AI-based applications with **Semantic Kernel**  
