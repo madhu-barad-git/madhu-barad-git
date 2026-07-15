@@ -16,6 +16,13 @@ I'm a passionate Software Developer with **8+ years of experience** in building 
 
 ---
 
+### 🚀 Featured Project:
+**[Live Poll App](https://github.com/madhu-barad-git/Live-polling)** — create a poll,
+share a link, and watch votes come in live. ASP.NET Core (.NET 9) + SignalR backend,
+React + TypeScript frontend.
+
+---
+
 ### 📫 Let's Connect:
 [LinkedIn](https://www.linkedin.com/in/madhu-barad-31643a190?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub](https://github.com/madhu-barad-git)
 

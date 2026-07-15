@@ -1,6 +1,0 @@
-@LivePolling.Api_HostAddress = http://localhost:5246
-
-GET {{LivePolling.Api_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
